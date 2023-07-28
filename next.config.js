@@ -10,7 +10,7 @@ const nextConfig = {
   //   unoptimized: true
   // },
   i18n: {
-    locales: ['en'],
+    locales: ['en', 'ru'],
     defaultLocale: 'en'
   }
   // images: { //ftp
